@@ -8,7 +8,7 @@
 
 国内动态加速 直连无需代理 协议统一接入便捷
 
-[快速开始](#如何使用) / [API文档](https://chatanywhere.apifox.cn/) / [申请内测免费Key](https://api.chatanywhere.tech/v1/oauth/free/render) / [支持付费Key](https://api.chatanywhere.tech/#/shop/) / [服务可用性](https://status.chatanywhere.tech/)
+[快速开始](#如何使用) / [API文档](https://docs.chatanywhere.tech/) / [申请内测免费Key](https://api.chatanywhere.tech/v1/oauth/free/render) / [支持付费Key](https://api.chatanywhere.tech/#/shop/) / [服务可用性](https://status.chatanywhere.tech/)
 
 [QQ群: 1080471642](https://qm.qq.com/cgi-bin/qm/qr?k=UK3uy_oIge2Hu5s6MYMiFKMm4FMYY6pX&jump_from=webapi&authKey=u7UzKKipRVI6UiMGdKVepJ9SIqbKwKxuUKlgOJoDS3urEnCpDG+WYrHG4VcXS0Ey)
 
@@ -66,7 +66,7 @@
 ## 付费版API
 - 纯公益提供免费Key显然不是能持久运营下去的方案，所以我们引入付费API Key维持项目的日常开销，以促进项目的良性循环，还望大家理解。
 - [购买付费Key](https://api.chatanywhere.tech/#/shop/)
-- [付费版价格表](https://chatanywhere.apifox.cn/doc-2694962)
+- [付费版价格表](https://docs.chatanywhere.tech/doc-2694962)
 
 1. 支持**更稳定更快速的API**，无限速，体验更好，价格低于官方，充值便捷。
 2. 同官网计费策略，使用官方返回Tokens用量计费。
@@ -315,7 +315,7 @@
 
 ## 常见软件使用方法
 
-[文档-常用软件使用教程](https://chatanywhere.apifox.cn/doc-5547696)
+[文档-常用软件使用教程](https://docs.chatanywhere.tech/doc-5547696)
 
 ## Star History
 
